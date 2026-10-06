@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        
+        String name = "Cherie";
+        int age = 19;
+        String address = "Sta. Cruz Lubao, Pampanga";
+        double weight = 45.67;
+        double height = 160.0;
+
+       
+        System.out.println("My name is " + name + ", I am " + age + " years old, I live at " + address + ", and I weight " + weight + " kg with a height of " +height + " cm.");
+    }
+}
